@@ -1,0 +1,29 @@
+{
+  "name": "vision-board",
+  "version": "1.1.0",
+  "description": "a project for school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomdozz/Vision-Board.git"
+  },
+  "keywords": [
+    "vision",
+    "board",
+    "goals",
+    "success"
+  ],
+  "author": "Tom Andersson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomdozz/Vision-Board/issues"
+  },
+  "homepage": "https://github.com/Tomdozz/Vision-Board#readme",
+  "dependencies": {
+    "bootstrap": "file:bootstrap",
+    "jquery": "^3.3.1"
+  }
+}
